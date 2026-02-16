@@ -38,11 +38,8 @@ out/
 
 ### Environment Variables & Local Config ###
 web/.env
+.env.*
 /uploads/
-
-### Docker ###
-docker-compose.yml
-docker-compose.override.yml
 
 ### QueryDSL generated sources ###
 **/build/generated/
